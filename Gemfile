@@ -10,6 +10,7 @@ gem 'devise'
 gem 'hirb'
 gem 'omniauth'
 gem 'omniauth-twitter'
+gem 'hirb'
 
 
 # Gems used only for assets and not required
